@@ -1,22 +1,22 @@
  {
- personas: [
+ "personas": [
         {
-          id: 11,
-          nombre: 'Jon',
-          apellido: 'Nieve',
-          email: 'jon@email.com',
+          "id": 11,
+          "nombre": 'Jon',
+          "apellido": 'Nieve',
+          "email": 'jon@email.com',
         },
         {
-          id: 12,
-          nombre: 'Tyrion',
-          apellido: 'Lannister',
-          email: 'tyrion@email.com',
+          "id": 12,
+          "nombre": 'Tyrion',
+          "apellido": 'Lannister',
+          "email": 'tyrion@email.com',
         },
         {
           id: 13,
-          nombre: 'Daenerys',
-          apellido: 'Targaryen',
-          email: 'daenerys@email.com',
+          "nombre": 'Daenerys',
+          "apellido": 'Targaryen',
+          "email": 'daenerys@email.com',
         },
       ]
 }
