@@ -14,7 +14,7 @@
           "email": "tyrion@email.org"
         },
         {
-          id: 13,
+          "id": 13,
           "nombre": "Daenerys",
           "apellido": "Targaryen",
           "email": "daenerys@email.org"
