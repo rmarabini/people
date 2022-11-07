@@ -5,19 +5,19 @@
           "id": 11,
           "nombre": "Jon",
           "apellido": "Nieve",
-          "email": "jon@email.org",
+          "email": "jon@email.org"
         },
         {
           "id": 12,
           "nombre": "Tyrion",
           "apellido": "Lannister",
-          "email": "tyrion@email.org",
+          "email": "tyrion@email.org"
         },
         {
           id: 13,
           "nombre": "Daenerys",
           "apellido": "Targaryen",
-          "email": "daenerys@email.org",
+          "email": "daenerys@email.org"
         }
       ]
 }
